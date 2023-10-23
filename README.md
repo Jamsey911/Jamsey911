@@ -1,4 +1,4 @@
-![MasterHead]
+![MasterHead](https://www.postermywall.com/index.php/posterbuilder/view/9125b53881f5ccb335717560e3302574/1)
 <h1 align="center">Hi 👋, I'm James Lynch</h1>
 <h3 align="center">A passionate frontend developer from Ireland</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
