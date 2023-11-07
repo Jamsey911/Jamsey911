@@ -16,7 +16,7 @@
 
 - 📫 You can reach me by Email: **jamesalynch911@hotmail.com**
 
-- 📄 Know about my experiences [Reseme](https://docs.google.com/document/d/11sJChLJOn3qs4DLQvTgbNlzlnLFBeg81Q8fAv4k228M/edit?usp=sharing)
+- 📄 Know about my experiences [Reseme](https://docs.google.com/document/d/1Yas3I4hjyGwTXHRd3eIqzR7SsCi3Qufma2UzIxzNW0c/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
