@@ -1,4 +1,4 @@
-<img src="https://github.com/Jamsey911/Jamsey911/blob/ff8e462c0ff885dd6f800aef60c86ba04277a6a2/github_banner.jpg" width="100%">
+<img src="https://github.com/Jamsey911/Jamsey911/blob/main/banner_new_git.PNG" width="100%">
 <h1 align="center">Hi 👋, I'm James Lynch</h1>
 <h3 align="center">A passionate junior full stack developer from Ireland</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
